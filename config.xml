@@ -9,4 +9,7 @@
     </author>
     <content src="package.json" />
     <access origin="*" />
+      <platform name="android">
+        <icon src="ic_launcher.png" />
+    </platform>
 </widget>
